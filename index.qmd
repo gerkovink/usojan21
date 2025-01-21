@@ -42,6 +42,19 @@ Source:
 - [www.gerkovink.com/USOjan21](https://www.gerkovink.com/USOjan21)
 - [github.com/gerkovink/USOjan21](https://github.com/gerkovink/USOjan21)
 
+## Schedule {.smaller}
+| Time  | Title / Activity                                                                                          | Speaker         |
+| ----- | --------------------------------------------------------------------------------------------------------- | --------------- |
+| 13:00 | Walk - in                                                                                                 |                 |
+| 13:15 | Welcome and introduction                                                                                  | Gerko Vink      |
+| 13:30 | Responsible Chatbot use in higher education: Implications for exam boards. A narrative literature review. | Eugene Loos     |
+| 14.15 | GenAI and the implications for assessment                                                                 | Laura Koenders  |
+| 15:15 | Waterproof demo: Teaching with a proof assistant                                                          | Pim Otte        |
+| 15:40 | Designing for STEM Education in the Era of AI: First results from our experience in the UTQ course        | Christos Chytas |
+| 16:15 | AI Governance: what is it and what do we gain?                                                            | Yvette Roman    |
+| 16:45 | How to write recipes for the ‘AI in Education Cookbook’​                                                  | Femke Kirschner |
+| 17:00 | Drinks in Ruppert Hall                                                                                    |                 |
+
 ## First of all
 ::: {.callout-tip}
 ## Education is a universal right
